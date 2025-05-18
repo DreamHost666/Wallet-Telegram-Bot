@@ -25,8 +25,8 @@ Telegram-бот для безопасного управления Ethereum-ко
 
 ```bash
 # Клонирование репозитория
-git clone https://github.com/ваш-логин/ethereum-wallet-bot.git
-cd ethereum-wallet-bot
+git clone https://github.com/DreamHost666/Wallet-Telegram-Bot.git
+cd Wallet-Telegram-Bot
 
 # Установка зависимостей
 pip install -r requirements.txt
